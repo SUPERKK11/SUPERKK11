@@ -53,12 +53,13 @@ and real-world problem solving<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/superkk11/superkk11/output/pacman-contribution-graph-dark.svg">
+          srcset="https://raw.githubusercontent.com/superkk11/superkk11/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/superkk11/superkk11/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" 
-       src="https://raw.githubusercontent.com/superkk11/superkk11/output/pacman-contribution-graph.svg">
+          srcset="https://raw.githubusercontent.com/superkk11/superkk11/output/snake.svg">
+  <img alt="snake contribution graph" 
+       src="https://raw.githubusercontent.com/superkk11/superkk11/output/snake.svg">
 </picture>
+
 
 <div>
   <img width="100%" 
